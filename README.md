@@ -1,1 +1,3 @@
-# WASABI BOT
+# WASABI BOT (discontinued)
+
+This bot sends memes, keeps movie lists for each user, plays music, creates teams for gaming and more...

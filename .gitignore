@@ -1,2 +1,7 @@
 .vscode
 properties.ini
+*.jar
+target
+.settings
+.project
+.classpath

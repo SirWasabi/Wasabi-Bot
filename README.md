@@ -1,3 +1,10 @@
 # WASABI BOT (discontinued)
 
-This bot sends memes, keeps movie lists for each user, plays music, creates teams for gaming and more...
+Public repository for Wasabi Bot.
+
+This bot can:
+ - send memes
+ - keep movie lists for each user
+ - play music (Youtube)
+ - create teams for gaming
+ - and more...
